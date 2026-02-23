@@ -1,6 +1,6 @@
 cask "prune" do
-  version "1.0.0-rc.2"
-  sha256 "7d75d6178c99de5b3c8218f82458559fd3bda5283cd2fc9b07f077883a3bde3e"
+  version "1.0.0-rc.3"
+  sha256 "d04c018f1c9ab70d988dcf713e4b07fd3ba71babe69c381d20f83b05a62e882e"
 
   url "https://github.com/jrschumacher/homebrew-tap/releases/download/v#{version}/Prune_App_macOS_universal.zip"
   name "Prune"
