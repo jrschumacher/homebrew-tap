@@ -1,6 +1,6 @@
 cask "scribe" do
   version "0.1.0"
-  sha256 "02a5441832683cc792928a01b91e870e3de53295972d386c6a8bc9797c0f9bce"
+  sha256 "d501d43fc80b3c12cb1cc8fda67a5da81a50aac58371a263ef2692b3ac106d0f"
 
   url "https://github.com/jrschumacher/homebrew-tap/releases/download/scribe-v#{version}/Scribe_macOS_universal.zip"
   name "Scribe"
