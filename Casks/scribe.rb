@@ -1,6 +1,6 @@
 cask "scribe" do
   version "1.1.1"
-  sha256 "dfd9c2f19c4848b222403e4c15d37b88bd37f579e53c2dd03f7e405a7ff88c5d"
+  sha256 "1f090c3bf83727d4f7fdc836596695e4863a8fb82fde89ad19e051803280fb6a"
 
   url "https://github.com/jrschumacher/homebrew-tap/releases/download/scribe-v1.1.1/scribe-1.1.1-darwin-arm64.zip"
   name "Scribe"
