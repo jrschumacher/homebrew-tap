@@ -4,21 +4,21 @@ cask "welp@rc" do
 
   on_macos do
     on_arm do
-      sha256 "6f08c04a7ab2b91b13bd8338d7ac253b4959a6103c32ebb911e96b9645de7851"
+      sha256 "75274a7d68461614112b070e84155fd9fd566f326f7423dcb169825dacfe616d"
       url "https://github.com/jrschumacher/homebrew-tap/releases/download/welp-v#{version}/welp_Darwin_arm64.tar.gz"
     end
     on_intel do
-      sha256 "ce103d06d2d649a15356e6a905231b9211af823b081e2b1ec422873449f9d8f3"
+      sha256 "42e2e06b5e9b20b11f5ac7e9d5c2a921578b108251f837b5a21889eeacd8033c"
       url "https://github.com/jrschumacher/homebrew-tap/releases/download/welp-v#{version}/welp_Darwin_x86_64.tar.gz"
     end
   end
   on_linux do
     on_arm do
-      sha256 "97391bab407bb8bcc335bea10086e36c74fa4c6432adf36864421b36810edab0"
+      sha256 "5b0fc0ccc6b484ccdde7f21915b59d97a2ce903bcb7447fbddeda8fc503be567"
       url "https://github.com/jrschumacher/homebrew-tap/releases/download/welp-v#{version}/welp_Linux_arm64.tar.gz"
     end
     on_intel do
-      sha256 "421c4e8371674d5d9115e9ca5e39857ef79c2d81db8c354605795aae914df9a2"
+      sha256 "37dbb13211d091aed8e003682e58726fbeae034ccbc09ba26f28409b5f22583e"
       url "https://github.com/jrschumacher/homebrew-tap/releases/download/welp-v#{version}/welp_Linux_x86_64.tar.gz"
     end
   end
